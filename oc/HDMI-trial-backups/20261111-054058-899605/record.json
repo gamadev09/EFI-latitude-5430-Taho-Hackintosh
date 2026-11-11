@@ -1,0 +1,14 @@
+{
+  "config_sha256": "a4d7c70c00df7e7fe0615916e542310f43cdd7c4a2c9d8e837c867e59dd1cb22",
+  "original_files": {
+    "Contents/Info.plist": "58e1dcc90e34756f183f95e76a34d83574b0b5355fa560c2f23e87b43129e6f2",
+    "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+    "Contents/MacOS/NootedGreen": "2441d2b8e0d3bf74c4bd601a2b3599792d33dbc117a9c743496399306cd98be1"
+  },
+  "trial_files": {
+    "Contents/Info.plist": "b7ee3b30dd97365d0f361229b88ec555df62c63c7f471d6f4edca5487af068bb",
+    "Contents/_CodeSignature/CodeResources": "6686de10a28a2fe11b36cbb86dcbacc827cfc4ea116b4dabf1845e5aee629e9b",
+    "Contents/MacOS/NootedGreen": "ea906d1ae7d1a1fae968d6eced9722fad938bb5bcf746aea639c9d3ac4cd2621"
+  },
+  "status": "restored"
+}
